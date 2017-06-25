@@ -4,3 +4,4 @@
     3、Tomcat或Application的JMX监控与调优
     4、scala
     5、思考别人为什么这么设计? 你可以问“你为什么要这样子设计..”.
+    6、spark流式计算,做一个分析天猫商品价格的Application.
