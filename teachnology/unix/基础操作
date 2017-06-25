@@ -1,0 +1,5 @@
+基础操作
+  1、后台运行shell , sudo nohub ./shell.sh &
+  2、显示所有的进程,ps aux
+  3、杀死进程 kill -9 pid
+  4、查找并直接杀死进程pkill -9 java
